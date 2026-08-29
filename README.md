@@ -14,3 +14,5 @@ Project 0 Getting Started
 ![alt text](nsight-debugger.png)
 ![alt text](nsight-systems-analysis.png)
 ![alt text](nsight-systems-timeline.png)
+![alt text](nsight-compute-summary.png)
+![alt text](nsight-compute-details.png)
