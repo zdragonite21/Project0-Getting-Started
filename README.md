@@ -12,3 +12,5 @@ Project 0 Getting Started
 
 ![alt text](cuda-gl-check.png)
 ![alt text](nsight-debugger.png)
+![alt text](nsight-systems-analysis.png)
+![alt text](nsight-systems-timeline.png)
