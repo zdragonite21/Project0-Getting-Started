@@ -11,3 +11,4 @@ Project 0 Getting Started
 ### (TODO: Your README)
 
 ![alt text](cuda-gl-check.png)
+![alt text](nsight-debugger.png)
