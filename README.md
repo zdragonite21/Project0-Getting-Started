@@ -10,9 +10,10 @@ Project 0 Getting Started
 
 ### (TODO: Your README)
 
-![alt text](cuda-gl-check.png)
-![alt text](nsight-debugger.png)
-![alt text](nsight-systems-analysis.png)
-![alt text](nsight-systems-timeline.png)
-![alt text](nsight-compute-summary.png)
-![alt text](nsight-compute-details.png)
+![alt text](images/cuda-gl-check.png)
+![alt text](images/nsight-debugger.png)
+![alt text](images/nsight-systems-analysis.png)
+![alt text](images/nsight-systems-timeline.png)
+![alt text](images/nsight-compute-summary.png)
+![alt text](images/nsight-compute-details.png)
+![alt text](images/webgl-report.png)
