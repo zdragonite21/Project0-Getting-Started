@@ -4,11 +4,10 @@ Project 0 Getting Started
 **University of Pennsylvania, CIS 5650: GPU Programming and Architecture, Project 0**
 
 * Zachary Leong
-  * (TODO) [LinkedIn](), [personal website](), [twitter](), etc.
-* Tested on: (TODO) Windows 22, i7-2222 @ 2.22GHz 22GB, GTX 222 222MB (Moore 2222 Lab)
-* Cuda Compatibility: 8.9
+  * [LinkedIn](https://linkedin.com/in/zleong), [personal website](https://zacharyleong.com)
+* Tested on: Windows 11, Ultra 9 185H @ 2.30GHz 32GB, RTX 4060 Laptop (personal)
 
-### (TODO: Your README)
+### images
 
 ![alt text](images/cuda-gl-check.png)
 ![alt text](images/nsight-debugger.png)
@@ -17,3 +16,4 @@ Project 0 Getting Started
 ![alt text](images/nsight-compute-summary.png)
 ![alt text](images/nsight-compute-details.png)
 ![alt text](images/webgl-report.png)
+![alt text](images/webgpu.png)
